@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{FA070813-E59A-4746-A0BF-51D21BBE7F15}|Default">
+  <MonoDevelop.Ide.ItemProperties.NoteKeeper.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NoteKeeper/Services/MockPluralsightDataStore.cs">
+    <Files>
+      <File FileName="NoteKeeper/Views/ItemDetailPage.xaml" Line="27" Column="15" />
+      <File FileName="NoteKeeper/Views/ItemDetailPage.xaml.cs" Line="49" Column="2" />
+      <File FileName="NoteKeeper/ViewModels/ItemDetailViewModel.cs" Line="63" Column="1" />
+      <File FileName="NoteKeeper/ViewModels/BaseViewModel.cs" Line="41" Column="13" />
+      <File FileName="NoteKeeper/Services/IPluralsightDataStore.cs" Line="17" Column="1" />
+      <File FileName="NoteKeeper/Services/MockPluralsightDataStore.cs" Line="122" Column="1" />
+      <File FileName="NoteKeeper.iOS/Main.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NoteKeeper" expanded="True">
+            <Node name="NoteKeeper" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="MockPluralsightDataStore.cs" selected="True" />
+              </Node>
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="ItemDetailPage.xaml" expanded="True" />
+                <Node name="ItemsPage.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="NoteKeeper.Android" expanded="True" />
+            <Node name="NoteKeeper.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.NoteKeeper.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C8BC97FB-59DF-4B3B-8D18-8A86924B3589" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
