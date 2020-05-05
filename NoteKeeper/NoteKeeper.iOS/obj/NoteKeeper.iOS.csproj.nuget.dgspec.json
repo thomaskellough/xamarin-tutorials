@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/thomas.kellough/Desktop/Xamarin-Tutorials/NoteKeeper/NoteKeeper.iOS/NoteKeeper.iOS.csproj": {}
+    "/Users/thomas.kellough/Desktop/xamarin-tutorials/NoteKeeper/NoteKeeper.iOS/NoteKeeper.iOS.csproj": {}
   },
   "projects": {
-    "/Users/thomas.kellough/Desktop/Xamarin-Tutorials/NoteKeeper/NoteKeeper.iOS/NoteKeeper.iOS.csproj": {
+    "/Users/thomas.kellough/Desktop/xamarin-tutorials/NoteKeeper/NoteKeeper.iOS/NoteKeeper.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/thomas.kellough/Desktop/Xamarin-Tutorials/NoteKeeper/NoteKeeper.iOS/NoteKeeper.iOS.csproj",
+        "projectUniqueName": "/Users/thomas.kellough/Desktop/xamarin-tutorials/NoteKeeper/NoteKeeper.iOS/NoteKeeper.iOS.csproj",
         "projectName": "NoteKeeper.iOS",
-        "projectPath": "/Users/thomas.kellough/Desktop/Xamarin-Tutorials/NoteKeeper/NoteKeeper.iOS/NoteKeeper.iOS.csproj",
+        "projectPath": "/Users/thomas.kellough/Desktop/xamarin-tutorials/NoteKeeper/NoteKeeper.iOS/NoteKeeper.iOS.csproj",
         "packagesPath": "/Users/thomas.kellough/.nuget/packages/",
-        "outputPath": "/Users/thomas.kellough/Desktop/Xamarin-Tutorials/NoteKeeper/NoteKeeper.iOS/obj/",
+        "outputPath": "/Users/thomas.kellough/Desktop/xamarin-tutorials/NoteKeeper/NoteKeeper.iOS/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -26,8 +26,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "/Users/thomas.kellough/Desktop/Xamarin-Tutorials/NoteKeeper/NoteKeeper/NoteKeeper.csproj": {
-                "projectPath": "/Users/thomas.kellough/Desktop/Xamarin-Tutorials/NoteKeeper/NoteKeeper/NoteKeeper.csproj"
+              "/Users/thomas.kellough/Desktop/xamarin-tutorials/NoteKeeper/NoteKeeper/NoteKeeper.csproj": {
+                "projectPath": "/Users/thomas.kellough/Desktop/xamarin-tutorials/NoteKeeper/NoteKeeper/NoteKeeper.csproj"
               }
             }
           }
@@ -59,14 +59,14 @@
         }
       }
     },
-    "/Users/thomas.kellough/Desktop/Xamarin-Tutorials/NoteKeeper/NoteKeeper/NoteKeeper.csproj": {
+    "/Users/thomas.kellough/Desktop/xamarin-tutorials/NoteKeeper/NoteKeeper/NoteKeeper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/thomas.kellough/Desktop/Xamarin-Tutorials/NoteKeeper/NoteKeeper/NoteKeeper.csproj",
+        "projectUniqueName": "/Users/thomas.kellough/Desktop/xamarin-tutorials/NoteKeeper/NoteKeeper/NoteKeeper.csproj",
         "projectName": "NoteKeeper",
-        "projectPath": "/Users/thomas.kellough/Desktop/Xamarin-Tutorials/NoteKeeper/NoteKeeper/NoteKeeper.csproj",
+        "projectPath": "/Users/thomas.kellough/Desktop/xamarin-tutorials/NoteKeeper/NoteKeeper/NoteKeeper.csproj",
         "packagesPath": "/Users/thomas.kellough/.nuget/packages/",
-        "outputPath": "/Users/thomas.kellough/Desktop/Xamarin-Tutorials/NoteKeeper/NoteKeeper/obj/",
+        "outputPath": "/Users/thomas.kellough/Desktop/xamarin-tutorials/NoteKeeper/NoteKeeper/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/thomas.kellough/.config/NuGet/NuGet.Config"

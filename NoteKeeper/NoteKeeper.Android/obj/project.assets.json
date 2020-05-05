@@ -1939,11 +1939,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/thomas.kellough/Desktop/Xamarin-Tutorials/NoteKeeper/NoteKeeper.Android/NoteKeeper.Android.csproj",
+      "projectUniqueName": "/Users/thomas.kellough/Desktop/xamarin-tutorials/NoteKeeper/NoteKeeper.Android/NoteKeeper.Android.csproj",
       "projectName": "NoteKeeper.Android",
-      "projectPath": "/Users/thomas.kellough/Desktop/Xamarin-Tutorials/NoteKeeper/NoteKeeper.Android/NoteKeeper.Android.csproj",
+      "projectPath": "/Users/thomas.kellough/Desktop/xamarin-tutorials/NoteKeeper/NoteKeeper.Android/NoteKeeper.Android.csproj",
       "packagesPath": "/Users/thomas.kellough/.nuget/packages/",
-      "outputPath": "/Users/thomas.kellough/Desktop/Xamarin-Tutorials/NoteKeeper/NoteKeeper.Android/obj/",
+      "outputPath": "/Users/thomas.kellough/Desktop/xamarin-tutorials/NoteKeeper/NoteKeeper.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1958,8 +1958,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "/Users/thomas.kellough/Desktop/Xamarin-Tutorials/NoteKeeper/NoteKeeper/NoteKeeper.csproj": {
-              "projectPath": "/Users/thomas.kellough/Desktop/Xamarin-Tutorials/NoteKeeper/NoteKeeper/NoteKeeper.csproj"
+            "/Users/thomas.kellough/Desktop/xamarin-tutorials/NoteKeeper/NoteKeeper/NoteKeeper.csproj": {
+              "projectPath": "/Users/thomas.kellough/Desktop/xamarin-tutorials/NoteKeeper/NoteKeeper/NoteKeeper.csproj"
             }
           }
         }
