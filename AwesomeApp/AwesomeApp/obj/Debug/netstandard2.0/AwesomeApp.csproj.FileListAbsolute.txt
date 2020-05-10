@@ -1,0 +1,14 @@
+/Users/thomas.kellough/Desktop/xamarin-tutorials/AwesomeApp/AwesomeApp/bin/Debug/netstandard2.0/AwesomeApp.deps.json
+/Users/thomas.kellough/Desktop/xamarin-tutorials/AwesomeApp/AwesomeApp/bin/Debug/netstandard2.0/AwesomeApp.dll
+/Users/thomas.kellough/Desktop/xamarin-tutorials/AwesomeApp/AwesomeApp/bin/Debug/netstandard2.0/ref/AwesomeApp.dll
+/Users/thomas.kellough/Desktop/xamarin-tutorials/AwesomeApp/AwesomeApp/bin/Debug/netstandard2.0/AwesomeApp.pdb
+/Users/thomas.kellough/Desktop/xamarin-tutorials/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.csprojAssemblyReference.cache
+/Users/thomas.kellough/Desktop/xamarin-tutorials/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/thomas.kellough/Desktop/xamarin-tutorials/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/thomas.kellough/Desktop/xamarin-tutorials/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.csproj.CoreCompileInputs.cache
+/Users/thomas.kellough/Desktop/xamarin-tutorials/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.AssemblyInfoInputs.cache
+/Users/thomas.kellough/Desktop/xamarin-tutorials/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.AssemblyInfo.cs
+/Users/thomas.kellough/Desktop/xamarin-tutorials/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/thomas.kellough/Desktop/xamarin-tutorials/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.dll
+/Users/thomas.kellough/Desktop/xamarin-tutorials/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/ref/AwesomeApp.dll
+/Users/thomas.kellough/Desktop/xamarin-tutorials/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.pdb
