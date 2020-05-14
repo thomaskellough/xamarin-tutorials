@@ -1,0 +1,14 @@
+/Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes/bin/Debug/netstandard2.0/Notes.deps.json
+/Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes/bin/Debug/netstandard2.0/Notes.dll
+/Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes/bin/Debug/netstandard2.0/ref/Notes.dll
+/Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes/bin/Debug/netstandard2.0/Notes.pdb
+/Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes/obj/Debug/netstandard2.0/Notes.csprojAssemblyReference.cache
+/Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes/obj/Debug/netstandard2.0/Notes.csproj.CoreCompileInputs.cache
+/Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes/obj/Debug/netstandard2.0/Notes.AssemblyInfoInputs.cache
+/Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes/obj/Debug/netstandard2.0/Notes.AssemblyInfo.cs
+/Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes/obj/Debug/netstandard2.0/Notes.dll
+/Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes/obj/Debug/netstandard2.0/ref/Notes.dll
+/Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes/obj/Debug/netstandard2.0/Notes.pdb
