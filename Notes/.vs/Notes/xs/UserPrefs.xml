@@ -1,15 +1,23 @@
-﻿<Properties StartupConfiguration="{3EB788C4-B0EB-4E56-9F71-93D7DADBE8F1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Notes/MainPage.xaml.cs">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{F58678C9-F883-460F-A678-0CDECB8E973A}|Default">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="Notes/MainPage.xaml.cs" Line="28" Column="1" />
+      <File FileName="Notes/Models/Note.cs" Line="9" Column="43" />
+      <File FileName="Notes/NoteEntryPage.xaml" Line="27" Column="1" />
+      <File FileName="Notes/NoteEntryPage.xaml.cs" Line="19" Column="58" />
+      <File FileName="Notes/NotesPage.xaml" Line="8" Column="49" />
+      <File FileName="Notes/App.xaml.cs" Line="31" Column="1" />
+      <File FileName="Notes/NotesPage.xaml.cs" Line="44" Column="16" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Notes" expanded="True">
             <Node name="Notes" expanded="True">
-              <Node name="MainPage.xaml" expanded="True">
-                <Node name="MainPage.xaml.cs" selected="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="NoteEntryPage.xaml" expanded="True" />
+              <Node name="NotesPage.xaml" expanded="True">
+                <Node name="NotesPage.xaml.cs" selected="True" />
               </Node>
             </Node>
           </Node>

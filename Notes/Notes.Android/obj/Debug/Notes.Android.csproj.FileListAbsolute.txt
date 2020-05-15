@@ -475,3 +475,12 @@
 /Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes.Android/obj/Debug/stamp/_GenerateJavaStubs.stamp
 /Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes.Android/obj/Debug/stamp/_GeneratePackageManagerJava.stamp
 /Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes.Android/obj/Debug/stamp/_ResolveLibraryProjectImports.stamp
+/Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CarouselViewRenderer_CarouselViewOnScrollListener.java
+/Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+/Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsVideoView.java
+/Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/MediaElementRenderer.java
+/Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/NongreedySnapHelper_InitialScrollListener.java
+/Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/RadioButtonRenderer.java
+/Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+/Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/ClipboardChangeListener.java
+/Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/WebAuthenticatorCallbackActivity.java
