@@ -57,3 +57,9 @@
 /Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/coremlc/_PartialAppManifest.items
 /Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/coremlc/_BundleResourceWithLogicalName.items
 /Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/optimized/
+/Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes.iOS/bin/iPhoneSimulator/Debug/SQLite-net.dll
+/Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.nativelibrary.dll
+/Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.core.dll
+/Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/thomas.kellough/Desktop/xamarin-tutorials/Notes/Notes.iOS/bin/iPhoneSimulator/Debug/System.Runtime.CompilerServices.Unsafe.dll
