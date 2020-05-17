@@ -1,8 +1,10 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{F58678C9-F883-460F-A678-0CDECB8E973A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Notes/NotesPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Notes/App.xaml">
     <Files>
-      <File FileName="Notes/NotesPage.xaml.cs" Line="21" Column="60" />
-      <File FileName="Notes/Data/NoteDatabase.cs" Line="27" Column="40" />
+      <File FileName="Notes/NotesPage.xaml" Line="18" Column="32" />
+      <File FileName="Notes/Data/NoteDatabase.cs" Line="1" Column="1" />
+      <File FileName="Notes/Models/Note.cs" Line="1" Column="1" />
+      <File FileName="Notes/App.xaml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,18 +12,17 @@
           <Node name="Notes" expanded="True">
             <Node name="Notes" expanded="True">
               <Node name="Data" expanded="True" />
-              <Node name="App.xaml" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="App.xaml" expanded="True" selected="True" />
               <Node name="NoteEntryPage.xaml" expanded="True" />
-              <Node name="NotesPage.xaml" expanded="True">
-                <Node name="NotesPage.xaml.cs" selected="True" />
-              </Node>
+              <Node name="NotesPage.xaml" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Notes.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" />
+  <MonoDevelop.Ide.ItemProperties.Notes.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" Xamarin.HotReload.DebuggerTimeoutException.Notes.Android.HideInfoBar="True" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
   <MonoDevelop.Ide.ItemProperties.Notes.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C8BC97FB-59DF-4B3B-8D18-8A86924B3589" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
